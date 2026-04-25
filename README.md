@@ -4,8 +4,7 @@
 
 **Department of Computer Engineering**
 
-![][
-![image1](images/image1.png)
+![image21](images/image21.png)
 
 Project Report on
 
@@ -38,7 +37,7 @@ Project Mentor
 
 **Department of Computer Engineering**
 
-# ![image1](images/image1.png)
+# ![image21](images/image21.png)
 
 **Certificate**
 
@@ -209,13 +208,6 @@ Learners will be able to,
 
 [**References	53**](#references)
 
-[**Appendix	54**](#appendix)
-
-[I. Research Paper	54](#i.-research-paper)
-
-[II. Plagiarism Report	61](#ii.-plagiarism-report)
-
-[III. Review Sheets	63](#iii.-review-sheets)
 
 ## **List of Figures**
 
@@ -277,7 +269,7 @@ As part of India’s National Mission on Artificial Intelligence, there is a gro
 
 # **Industry Letter**
 
-![image2](images/image2.png)
+![image15](images/image15.png)
 
 # **Chapter 1 Introduction** {#chapter-1-introduction}
 
@@ -358,22 +350,22 @@ The transition from traditional real estate practices to AI-driven systems creat
 **Platform:** Google Meet  
 **Date:** April 10, 2026  
 **Demonstration Points:**  
-![image3](images/image3.png)
+![image36](images/image36.png)
 
 ###### **Figure 1\.** Meeting and Introduction {#figure-1.-meeting-and-introduction}
 
 The project demonstration commenced with a formal introduction of the team and the project scope via Google Meet. The session involved presenting the core objectives of the application to the evaluators. Initial discussions focused on the high-level architecture and the problem statement being addressed by the developed solution  
-![image4](images/image4.png)
+![image42](images/image42.png)
 
 ###### **Figure 2\.** Geospatial Data Visualization Demonstration {#figure-2.-geospatial-data-visualization-demonstration}
 
 During the functional walkthrough, the Registered Projects Map was demonstrated. This feature showcases a live integration of geospatial data, plotting real estate projects across a map interface. The demonstration highlighted the 'District Investment Analysis' tool, which provides a granular look at investment scores and market ratings for specific regions like Mumbai City.  
-![image5](images/image5.png)
+![image34](images/image34.png)
 
 ###### **Figure 3\.** System Health & Version Control Demonstration {#figure-3.-system-health-&-version-control-demonstration}
 
 The demonstration transitioned to the administrative side of the platform, highlighting the Data Update Dashboard. This section proved the system's ability to maintain real-time data syncs and displayed a transparent 'Version Control History.'  
-![image6](images/image6.png)
+![image13](images/image13.png)
 
 ###### **Figure 4\.** Data Analytics & Insights Demonstration {#figure-4.-data-analytics-&-insights-demonstration}
 
@@ -494,7 +486,7 @@ The system consists of three main components. The first is a legal information r
 
 ## **4.1 Block Diagram Representation of the Proposed System** {#4.1-block-diagram-representation-of-the-proposed-system}
 
-![image7](images/image7.png)
+![image17](images/image17.png)
 
 ###### **Figure 5\.** Block Diagram of the Proposed Framework {#figure-5.-block-diagram-of-the-proposed-framework}
 
@@ -502,7 +494,7 @@ This block diagram illustrates a multi-layered Intelligent Real Estate Decision 
 
 ## **4.2 Modular diagram Representation of the Proposed System** {#4.2-modular-diagram-representation-of-the-proposed-system}
 
-![image8](images/image8.png)
+![image27](images/image27.png)
 
 ###### **Figure 6\.** Modular Diagram of the Proposed Framework {#figure-6.-modular-diagram-of-the-proposed-framework}
 
@@ -514,7 +506,7 @@ The diagram shows how the system is built from several specialized departments t
 
 ### **4.3.1 Data Flow Diagram** {#4.3.1-data-flow-diagram}
 
-![image9](images/image9.png)
+![image25](images/image25.png)
 
 ###### **Figure 7\.** Dataflow Diagram of the Proposed Framework {#figure-7.-dataflow-diagram-of-the-proposed-framework}
 
@@ -524,6 +516,8 @@ The diagram tracks how information actually moves from the internet to the user.
 
 ### **4.3.2 Flowchart for the Proposed System** {#4.3.2-flowchart-for-the-proposed-system}
 
+![image14](images/image14.png)
+
 ###### **Figure 8\.** Flowchart Diagram of the Proposed Framework {#figure-8.-flowchart-diagram-of-the-proposed-framework}
 
 The diagram illustrates the step by step journey of a user interaction. It begins when a user submits a search query, at which point the system determines if they are looking for a property or asking a legal question. If it is a legal inquiry, the system retrieves relevant RERA regulatory context before proceeding. Once the intent is clear, the system matches the request against available property listings, analyzes the pricing to rank the best deals, and displays the final output to the user. All of this activity is then logged into a database history for future reference.
@@ -532,7 +526,7 @@ The diagram illustrates the step by step journey of a user interaction. It begin
 
 ### **4.3.3 ER Diagram** {#4.3.3-er-diagram}
 
-![image10](images/image10.png)
+![image26](images/image26.png)
 
 ###### **Figure 9\.** ER Diagram of the Proposed Framework {#figure-9.-er-diagram-of-the-proposed-framework}
 
@@ -540,7 +534,7 @@ The diagram reveals the underlying structure of the database and how different p
 
 ## **4.4 Project Scheduling & Tracking using Gantt Chart** {#4.4-project-scheduling-&-tracking-using-gantt-chart}
 
-![image11](images/image11.png)  
+![image18](images/image18.png)  
 **Figure 10\.** Project Scheduling and Tracking
 
 # 
@@ -550,7 +544,7 @@ The diagram reveals the underlying structure of the database and how different p
 ## **5.1 Methodology** {#5.1-methodology}
 
 The following experiments were performed on a system equipped with an Intel Core i5-11320H CPU @ 3.20GHz and 8 GB of RAM, running on a 64-bit operating system. Node.js v24.13.1 was utilized as the runtime environment, with npm v11.8.0 for package management. The framework architecture was built using the LangChain v1.2.33. The language model interface was managed via Ollama v0.20.2 for localized LLMs. The experiments were performed individually adhering to their input data and the structured outputs are also discussed as a part of research outputs in this section.  
-![image12](images/image12.png)
+![image31](images/image31.png)
 
 ###### **Figure 11\.** Framework for Verifiable Legal Information Retrieval from Real Estate Law Data {#figure-11.-framework-for-verifiable-legal-information-retrieval-from-real-estate-law-data}
 
@@ -570,19 +564,19 @@ In the Research Output & Evaluation phase, a chat model qwen2.5:0.5b (size: 398M
 The output given by the framework confirms that it can look through complicated real estate documents to provide clear legal answers. By identifying and grouping details about fees and penalties in one place, it breaks down the problem of scattered information, which often makes legal interpretation difficult for property buyers in India.  
 The purpose of the proposed Natural Language Property Discovery Framework is to function as an agentic AI tool for personalized property retrieval. The implementation of this framework is carried out in three phases: Data Acquisition & Pre-processing, Agentic AI, and Research Output & Evaluation. In the Data Acquisition & Pre-processing phase, a dataset containing property listings was curated using a Python script with the Crawl4AI (v0.8.x) library, which crawled web pages from property listing websites such as 99acres, MagicBricks, and NoBroker in markdown format. The unstructured crawled data was passed through a cleaning pipeline to remove non-essential web elements such as navigational headers, advertisements, and disclaimers. After cleaning, a rule-based parsing logic was applied to extract relevant attributes and generate structured CSV files. The property\_listings.csv file contains attributes such as listing\_id (reference key to master properties), property\_id, source\_website, price (in Crores), and URL. The master\_properties.csv file contains attributes such as property\_id, canonical\_name, location, bhk\_type, and standard\_area.  
 In the Agentic AI phase, the core model used was llama3.2:3b (size: 2.0GB), installed locally via Ollama. To ensure deterministic output, the model temperature was set to 0, and verbose mode was enabled to facilitate step-wise execution analysis. The agent follows a Reasoning and Acting (ReAct) loop with a maximum iteration limit of 5, allowing refinement of search parameters if initial queries fail. The model was equipped with a custom tool, query\_csv\_database, which serves as an interface between the model and the dataset. Upon receiving a natural language query, the model invokes this tool, which merges the master\_properties and property\_listings datasets, applies regex-based matching to handle linguistic variations, and performs multi-dimensional filtering across location, budget constraints, and configuration types. The output is a truncated JSON array of the top 10 relevant matches.  
-![image13](images/image13.png)
+![image33](images/image33.png)
 
 ###### **Figure 12\.** Agentic Framework for Natural Language Property Discovery and Structured Data Extraction {#figure-12.-agentic-framework-for-natural-language-property-discovery-and-structured-data-extraction}
 
 In the Research Output & Evaluation phase, the system includes another tool called record\_property\_details, which uses a zod-validated schema to map selected property attributes into a consistent, machine-readable format, thereby preventing hallucination of property details. The output includes the property name, location, BHK type, price, and URL. The framework enables users to obtain personalized property search results. Testing was conducted using a system prompt that guides the assistant to extract location, budget, and BHK requirements, use the query\_csv\_database tool for retrieval, and provide structured results. The tested input involved a user searching for a 2BHK property in Chembur with a budget of up to 2.1 Crores. The generated output demonstrates the framework’s ability to convert conversational queries into precise database filters and return validated results. It also shows how the system can transform a vague user query into a clear and actionable response.  
-![image14](images/image14.png)
+![image37](images/image37.png)
 
 ###### **Figure 13\.** Research Output of the Natural Language Property Discovery Framework and the Agentic Execution Trace {#figure-13.-research-output-of-the-natural-language-property-discovery-framework-and-the-agentic-execution-trace}
 
 The purpose of the District-wise Risk Scoring Framework is to provide location intelligence by analyzing regulatory compliance data and project risk profiles. The implementation of this framework is carried out in three phases: Data Acquisition & Pre-processing, Risk Modeling Engine, and Research Output & Evaluation.  
  In the Data Acquisition and Preprocessing phase, the input layer utilizes five heterogeneous datasets sourced from the MahaRERA regulatory portal using Crawl4AI and converted into JSON format. These datasets include registered projects, lapse of completion dates, non-compliance with Quarterly Progress Reports (QPR), shared bank account signals, and legal authority orders. A schema standardization script was developed to perform certificate-based linking. Since project names vary across datasets, the CertificateNo was used as the primary key to link risk signals such as delays, financial irregularities, and legal orders to specific projects and their respective districts.  
 In the Risk Modeling Engine phase, risk scores were computed using statistical methods. Bayesian smoothing (α \= 1, β \= 5\) was applied to prevent bias in districts with low project counts, ensuring stable comparisons. The final risk score is calculated as a weighted aggregation of four dimensions: Delay Risk (D), Compliance Risk (C), Financial Risk (F), and Legal Risk (L), along with a Cross-Signal Amplification component (S). The weights were empirically assigned based on domain relevance. Additionally, the engine identifies high-risk projects where multiple risk signals overlap and amplifies their contribution to the district’s overall score.  
-![image15](images/image15.png)
+![image20](images/image20.png)
 
 ###### **Figure 14\.** Framework for District-wise Risk Scoring Framework {#figure-14.-framework-for-district-wise-risk-scoring-framework}
 
@@ -603,7 +597,7 @@ The output generated by the framework is presented in Table 2\. The framework de
 
 ## **6.1 Test Case ID: TC-01 (Legal Document Query)** {#6.1-test-case-id:-tc-01-(legal-document-query)}
 
-![image16](images/image16.png)
+![image24](images/image24.png)
 
 1. Objective: To evaluate the chatbot's ability to extract and summarize specific stakeholder rules from a dense legal PDF.  
 2. System Input: An uploaded 152-page document titled "Maharashtra Real Estate Regulation and Development Rules."  
@@ -623,7 +617,7 @@ The output generated by the framework is presented in Table 2\. The framework de
 
 ## **6.2 Test Case ID: TC-02 (District Risk Scoring & Data Visualization)** {#6.2-test-case-id:-tc-02-(district-risk-scoring-&-data-visualization)}
 
-![image17](images/image17.png)
+![image29](images/image29.png)
 
 1. Objective: To verify the system's ability to aggregate district-level regulatory data and compute an "Investment Score" based on project-to-issue ratios.  
 2. System Input: Multi-source dataset including registered project counts and recorded compliance issues for districts (Mumbai City, Mumbai Suburban, Thane, etc.).  
@@ -643,7 +637,7 @@ The output generated by the framework is presented in Table 2\. The framework de
 
 ## **6.3 Test Case ID: TC-03 (Cross-Platform Price Aggregation)** {#6.3-test-case-id:-tc-03-(cross-platform-price-aggregation)}
 
-![image18](images/image18.png)
+![image39](images/image39.png)
 
 1. Objective: To verify the system's ability to process natural language queries and aggregate pricing data for the same property from multiple real estate portals (99acres, MagicBricks, NoBroker).  
 2. System Input: Natural language search string "godrej central chembur".  
@@ -667,8 +661,8 @@ The output generated by the framework is presented in Table 2\. The framework de
 
 ## **7.1 Screenshots of User Interface (UI)** {#7.1-screenshots-of-user-interface-(ui)}
 
-![image19](images/image19.png)  
-![image20](images/image20.png)
+![image28](images/image28.png)  
+![image38](images/image38.png)
 
 ###### **Figure 15\.** Home Page of INDREVA {#figure-15.-home-page-of-indreva}
 
@@ -680,39 +674,40 @@ This screenshot represents the main landing page of the INDREVA platform. It pro
 
 This screenshot demonstrates the Legal Information Retrieval module of the system. The interface allows users to interact with a chatbot that processes queries related to real estate laws. The system retrieves relevant information from RERA documents and displays the corresponding sections in a document viewer, enabling users to understand legal regulations in a simplified and contextual manner.
 
-![image17](images/image17.png)  
-![image22](images/image22.png)
+![image23](images/image23.png)  
+![image24](images/image24.png)
 
 ###### **Figure 17\.** District-wise Risk Analysis Dashboard {#figure-17.-district-wise-risk-analysis-dashboard}
 
 This screenshot represents the district-wise risk analysis module of the system. It displays risk scores for different districts based on parameters such as delay risk, compliance issues, financial irregularities, and legal factors. The dashboard helps users evaluate the safety and reliability of real estate investments across regions.   
-![image23](images/image23.png)
+![image19](images/image19.png)
 
 ###### **Figure 18\.** Geospatial Visualization of Registered Projects {#figure-18.-geospatial-visualization-of-registered-projects}
 
 This figure illustrates the map-based visualization of registered real estate projects. The system plots projects geographically, enabling users to analyze spatial distribution and identify high-density or high-risk areas for investment.   
-![image24](images/image24.png)
+![image30](images/image30.png)
 
 ###### **Figure 19\.** Administrative Dashboard and System Monitoring  {#figure-19.-administrative-dashboard-and-system-monitoring}
 
 This screenshot shows the administrative dashboard used for system monitoring and management. It includes features such as real-time data updates, system status tracking, and version control history, ensuring transparency and reliability of the platform.   
-![image25](images/image25.png)
+![image44](images/image44.png)
 
 ###### **Figure 20\.** Market Intelligence and Analytics Dashboard  {#figure-20.-market-intelligence-and-analytics-dashboard}
 
 This figure presents the market analytics module, which visualizes property data using charts and graphs. It includes insights such as property type distribution, top localities, and pricing trends, helping users derive actionable intelligence from raw data.   
-![image26](images/image26.png)
+![image43](images/image43.png)
 
 ###### **Figure 21\.** Natural Language Property Search Interface {#figure-21.-natural-language-property-search-interface}
 
 This screenshot demonstrates the natural language-based property search feature. Users can input queries in conversational form, specifying requirements such as location, budget, and property type. The system interprets these inputs and converts them into structured queries for accurate results.    
-![image27](images/image27.png)
+![image32](images/image32.png)
 
 ###### **Figure 22\.** Property Search Results and Listings {#figure-22.-property-search-results-and-listings}
 
 This screenshot represents the natural language-based property search interface. Users can enter queries such as location, budget, and property type in a conversational manner. The system interprets the input and prepares it for structured processing, improving usability compared to traditional filter-based systems.
 
-![image28](images/image28.png)
+![image39](images/image39.png)
+![image40](images/image40.png)
 
 ###### **Figure 23\.** Property Comparison Across Platforms {#figure-23.-property-comparison-across-platforms}
 
@@ -749,213 +744,3 @@ The proposed system, INDREVA: India Real Estate Valuation and Risk Assessment Fr
 21. Crawl4AI, “Crawl4AI documentation,” 2024\. \[Online\]. Available: https://docs.crawl4ai.com/  
 22. Meta AI, “Llama 3.2,” 2024\. \[Online\]. Available: https://www.llama.com/  
 23. N. Khithani, “Execution trace of agentic property discovery,” LangSmith Trace Repository, 2026\.
-
-# **Appendix** {#appendix}
-
-## **I. Research Paper** {#i.-research-paper}
-
-Intelligent Frameworks for Structured Decision Support in Real Estate  
-Gresha Bhatia\#1, Neelkanth Khithani\#2, Kushl Alve\#3, Vedang Gambhire\#4, Jatin Navani\#5   
-`#`*Department of Computer Engineering, Vivekanand Education Society’s Institute of Technology,*  
-*Chembur, Mumbai 400 074\. India.*  
-`1gresha.bhatia@ves.ac.in,22022.neelkanth.khithani@ves.ac.in,32022.kushl.alve@ves.ac.in,`  
-`42022.vedang.gambhire@ves.ac.in,52022.jatin.navani@ves.ac.in`
-
-***Abstract—*** **As part of India’s National Mission on Artificial Intelligence, there is an increasing focus on developing intelligent systems that can address societal challenges through data-driven decision support. In India's real estate landscape, information is fragmented among sources such as listing portals, regulatory databases, legal documents, and locality research, which makes the decision-making process for regular property buyers cumbersome. This paper proposes three intelligent frameworks that use heterogeneous data, including regulatory property data, market listings, and document-based information retrieval, to provide structured and interpretable insights for real estate decision-making. To prove the effective potential of our frameworks, this paper conducts three experiments using data available online and discusses the research outcomes. The frameworks demonstrate improved interpretability and structured retrieval across heterogeneous real estate datasets.**
-
-***Keywords—*** **Real Estate Technology, Retrieval-Augmented Generation, Agentic AI, Real Estate Regulatory Authority (RERA).**
-
-1. INTRODUCTION
-
-  The Indian government has made significant efforts in recent years to achieve digital transformation by implementing government initiatives, missions, and visions for the benefit of the common people. The core initiative includes Viksit Bharat \[1\], which aims to make India a developed nation by 2047 by establishing transparent, efficient, and citizen-centric systems as its objective. As part of digital growth, sectors such as finance, healthcare, and transportation have increasingly adopted data-driven systems to improve efficiency and decision-making. However, the real estate sector in India remains partially fragmented despite the availability of digital platforms and regulatory frameworks. According to NITI Aayog \[2\], by adopting standardized data formats, information can flow across agencies without technical friction, turning fragmented records into a reliable asset for Artificial Intelligence (AI) and service delivery, which highlights the importance of integrating data sources in the real estate sector.  
-  The introduction of the Real Estate Regulatory Authority (RERA) Act, 2016 by the Ministry of Housing and Urban Affairs (MoHUA) \[3\] aimed to ensure the regulation and promotion of the real estate sector in an efficient, transparent, and accountable manner, and to protect the interests of homebuyers. At the same time, several online property platforms have emerged that offer users access to property listings, price ranges, and basic filters to search for homes.  
-  Despite these initiatives, the overall process of property search, comparison, market analysis, and understanding of legal regulations remains complex and requires time and resources. Users are often required to navigate multiple platforms to gather relevant information.  
-  According to the Knight Frank & NAREDCO report \[4\], the following limitations are highlighted: (i) fragmented implementation across states, which creates confusion for developers, investors, and homebuyers, reducing the overall effectiveness of the Act, and (ii) digital infrastructure gaps. A buyer or investor must gather information from multiple sources and analyze it independently, which increases effort and the chances of missing important insights.  
-  The framework proposed in this paper aims to address these challenges by introducing intelligent components or frameworks. These frameworks are implemented as experiments in this paper and are designed to integrate data from various sources into a structured and actionable format in real estate systems. The frameworks include (i) Legal Information Retrieval Framework; (ii) Natural Language Property Discovery Framework; and (iii) District-wise Risk Scoring Framework.  
-  The remaining part of the paper is structured as follows. Section II presents a brief literature survey on the limitations of the current real estate ecosystem, the benefits of AI in the context of real estate, and the techniques used to situate this work. Section III then describes the methodology and implementation details of the frameworks as experiments. Finally, Section IV concludes the paper by highlighting its outcomes and discussing future work.
-
-2. LITERATURE SURVEY
-
-  This section summarizes the literature review conducted during the ideation phase of the proposed frameworks. It begins by identifying the limitations of the current real estate ecosystem in India. It then proceeds with a discussion of the potential benefits of incorporating AI and techniques into existing real estate digital formats and architectures.
-
-*A. Limitations of the Current Real Estate Ecosystem*  
-  The limitations discussed here are property buyer- or investor-centric. It was found that, despite the internet having multiple Indian property listing databases/websites and the implementation of regulatory frameworks, several challenges hinder access to and navigation of the real estate landscape and create silos. According to Boston Consulting Group (BCG) \[5\], about 45% of consumers reported that they found it difficult to navigate the RERA website. Studies also suggest that online rental and sales platforms contain fake real estate listings, which waste time and effort for buyers \[6\]. The following limitations also exist:
-
-* Difficulty to interpret legal rules, compliance details, and documentation  
-* No tool to answer the legal questions from those documents  
-* No centralized decision-making framework for interpretable or comparable format  
-* Information fragmented across multiple property websites and regulatory portals  
-* Time consuming and manual filtering property search process  
-* Limited personalization in search  
-* Absence of intelligent recommendations  
-* No cross-platform comparison solution  
-* Confusion due to excessive information overload
-
-*B. Benefits to Incorporation of AI in Existent Frameworks*  
-  The integration of AI into the current real estate digital ecosystem showcases the transformation of stagnant data into interpretable and useful insights \[7\]. AI-driven frameworks provide the following advantages:
-
-* *Reduction of Information Asymmetry:* The presence of legal and regulatory information, and its interpretation by common users with linguistic differences, creates a significant gap. Natural Language Processing (NLP) and Large Language Models (LLMs) can democratize access to information by extracting and simplifying complex content.  
-* *Data Interoperability:* As highlighted by NITI Aayog \[2\], the primary hurdle in Indian real estate is the lack of standardized data. AI-driven agents can act as semantic bridges and help automatically map and synthesize data from various sources.  
-* *Personalization:* Traditional property portals rely on rule-based filters. By deploying agentic AI, it allows for conversational discovery with enhanced understanding of user requirements and constraints, resulting in structured outputs.
-
-  In the domain of legal information retrieval, Retrieval-Augmented Generation (RAG) has emerged as a technology for combining document retrieval with language models. Study and research demonstrates its effectiveness in domains such as legal question answering \[8\]. Although its adoption and application in real estate regulatory systems remains limited. Also, using agentic AI, the systems have enabled  interaction with structured data sources via tool-based reasoning \[9\].  
-  These limitations and technologies motivate the need for intelligent and integrated frameworks that will transform fragmented data into structured decision support systems.
-
-3. METHODOLOGY AND IMPLEMENTATION
-
-  The following experiments were performed on a system equipped with an Intel Core i5-11320H CPU @ 3.20GHz and 8 GB of RAM, running on a 64-bit operating system. Node.js v24.13.1 was utilized as the runtime environment, with npm v11.8.0 for package management. The framework architecture was built using the LangChain v1.2.33. The language model interface was managed via Ollama v0.20.2 for localized LLMs. The entire documentation of the setup, including the implementation logic and related configuration files, is available at the project’s GitHub repository \[10\]  
-  The experiments were performed individually adhering to their input data and the structured outputs are also discussed as a part of research outputs in this section.
-
-![image29](images/image29.png)  
-**Figure 1\.** Framework for Verifiable Legal Information Retrieval from Real Estate Law Data
-
-*A. Legal Information Retrieval Framework*  
-  The purpose of the proposed legal information retrieval framework implemented as a functional Retrieval-Augmented Generation (RAG) pipeline for real estate PDF documents is designed to handle real estate legal queries. It aims to resolve the limitation of helping the users to interpret legal rules, compliance details, and documentation.  
-  Figure 1 displays three phases performed during implementation of the framework including Data Management & Pre-processing, Vectorization and LLM, Research Output & Evaluation which are as follows:
-
-  *1\) Data Management & Pre-processing:* The input layer for this experiment was curated by downloading and normalizing the names of the acts, rules and regulation documents in PDF format, sourced directly from the official MahaRERA portal \[11\].   
-  An ingestion script was then further designed to convert these unstructured PDF data into semantic character chunks. This script performed the task of extraction of the text data from each page of the PDF document using the npm pdf-parse (v2.4.5) library by mapping between the text and original page numbering. To ensure that the legal clauses remain intact, RecursiveCharacterTextSplitter (v1.0.1) from Langchain is configured with a chunk size of 600 characters with a 100-character overlap to maintain semantic continuity.
-
-  *2\) Vectorization and LLM:* The installation of the *embeddinggemma:300m-qat-q4\_0* model (size: 622MB) was done locally using Ollama \[12\] to generate vector embeddings of the chunks that were created previously. These embeddings were stored locally using the faiss-node (v0.5.1) vector store. This vector store assigns a unique docId to every chunk, mapping it to a metadata object containing the source filename and page number.   
-  Now, the retrieval logic was written to provide the model with the most relevant legal context by performing a similarity search (k \= 2\) and page-level citations.
-
-  *3\) Research Output & Evaluation:* For output results generation a chat model *qwen2.5:0.5b* (size: 398MB) was installed locally and used via langchains ChatOllama (v1.2.6) library with a low temperature (0.1) to ensure deterministic and accurate legal output.  
-  For a structured output and defining the operational boundary the model is controlled by using a specialized PromptTemplate and passing the model's response through a zod-validated schema. The schema includes answers, clauses (i.e. an array of specific legal sections or rules identified), penalty details (i.e. specific fines or penalties mentioned in the context), sources (i.e. the filenames of the PDF documents).  The testing was done as follows:
-
-* *Prompt Template:* You are a legal assistant specializing in Maharashtra Real Estate Regulatory Authority (MahaRERA) acts, rules and regulations. Use the following pieces of retrieved context to answer the user's question. If you don't know the answer based on the context, just say that you don't know. Keep the answer concise and professional.  
-* *Tested Input:* What are the penalties for delayed project registration under MahaRERA?  
-* *Research Output One (RO1)* generated by the framework is represented in Table 1 which demonstrates the framework's ability to extract specific legal provisions and cross-reference them with their respective source documentation.
-
-**Table 1\.** Research Output of the Legal Information Retrieval Framework
-
-| Answer | Administrative Charges and Standard Fees |
-| :---- | :---- |
-| **Clause(s)** |  'The administrative charges to be retained by the Authority in cases of withdrawal of application for registration of any Real Estate Project in accordance with Rule 3 (7) of the Maharashtra Real Estate(Regulation and Development)(Registration of Real Estate Projects, estimated receivable of the project is less than the estimated cost of completion of the project.', '47. The Registration shall be valid for a period of years beginning from and ending with unless renewed by the Maharashtra Real Estate Regulatory Authority in accordance with section 5 of the Act read with rule 6; (v) The promoter shall comply with the provisions of the Act and the rules and regulations made thereunder.', 'vi) That the promoter shall take all the pending approvals from the competent authorities' |
-| **Penalty Details** | If a party fails to comply with an order for costs within the permitted period, the order of the Authority awarding costs shall be executed forthwith in the same manner as a decree/order of a Civil Court. |
-| **Sources** | { source: 'maharera\_general\_regulations\_2017.pdf', page: 31 }, { source: 'maharera\_project\_registration\_rules\_2017.pdf', page: 119 } |
-
-  The output given by the framework in Table 1 confirms that the framework can look through complicated real estate documents to give clear legal answers. By finding and grouping details about fees and penalties in one place, it breaks down the walls of scattered information that usually make things difficult for property buyers in India.
-
-![image30](images/image30.png)  
-**Figure 2\.** Agentic Framework for Natural Language Property Discovery and Structured Data Extraction
-
-*B. Natural Language Property Discovery Framework*  
-  The purpose of the proposed Natural Language Property Discovery Framework implemented as a functional agentic AI tool for personalized property retrieval.  
-  Figure 2 displays three phases performed during implementation of the framework including Data Acquisition & Pre-processing, Agentic AI, Research Output & Evaluation which are as follows:
-
-  *1\) Data Acquisition & Pre-processing:* To curate the dataset that will contain the property listings, a script was written using python library Crawl4AI (v0.8.x) \[13\], which helped in crawling the web pages on the property listing websites including 99acres \[14\], MagicBricks \[15\] and NoBroker \[16\] in markdown format.  
-  The unstructured crawled data was then passed through a cleaning pipeline to remove non-essential web elements such as navigational headers, advertisements, and disclaimers. After removing them a rule-based parsing logic was applied to get the relevant attributes and create structured CSV files. They are as follows: 
-
-* *property\_listings.csv* with the following attributes: *listing\_id* (a reference key to the master properties); *property\_id* (serial number); *source\_website* (from which website the listing belongs to); *price* (actual price in Crores); *url* (URL link of the actual listing source).  
-* *master\_properties.csv* with the following attributes: *property\_id* (linked with the *listing\_id*); *canonical\_name* (name of the property/building); *location*; *bhk\_type* (eg. 2 BHK); *standard\_area* (carpet area of the property)
-
-  *2\) Agentic AI:* The core model utilized for the agentic AI task is *llama3.2:3b* (size: 2.0GB) \[17\] installed locally via Ollama. To ensure the model has a deterministic output its temperature was set to 0 and the verbose mode was enabled to facilitate a step-wise analysis of the execution. The agentic Reasoning and Acting (ReAct) loop is configured with a maximum iteration limit of 5\. This limit allows the model sufficient steps to refine its search parameters if the initial query yields no results.   
-  The agent or the model was equipped with a specific tool i.e. *query\_csv\_database* (Custom Filtering Tool). This tool served as an interface between the model and the dataset.  
-  Upon the execution of the agentic AI with the input of the user's query (natural language), the model first invokes the *query\_csv\_database*. The tool executes a merge operation between the *master\_properties* and *property\_listings* datasets. It then utilizes regular expression (RegEx) to resolve linguistic variations in user input. It then applies multi-dimensional filtering across location, budget constraints (in Crores), and configuration types, returning a JSON array of the top 10 relevant matches.
-
-  *3\) Research Output & Evaluation:* For structured output results the code script also includes *record\_property\_details* (Validation Tool) tool which utilizes a zod-validated schema to map the chosen property’s raw attributes into a consistent, machine-readable format. This prevents hallucination of property details. The output includes the property name, location, BHK type, price and URL. The results from the framework helps the users to get personalized search results.  
-The testing was done as follows:
-
-* *System Prompt:* You are a specialized Real Estate Assistant. Your task is to help users find properties from a local database.  
-  GUIDELINES:  
-  1\. Extract location, budget, and BHK requirements from the user's natural language.  
-  2\. Use the "query\_csv\_database" tool to find matching listings.   
-  3\. If the user query is vague (e.g., "cheap flats"), use reasonable defaults or ask for clarification.  
-  4\. "Cr" refers to Crores. 1 Crore \= 10,000,000. Your tool expects numbers in Crores (e.g., 1.5).  
-  5\. Once you find a suitable property, use the "record\_property\_details" tool to provide the final structured answer.  
-  6\. If no properties match, inform the user politely and suggest changing their filters.  
-* *Tested Input:* I'm looking for something in Chembur... maybe 2bhk? My budget is tops 2.1 Cr.  
-* *Research Output Two (RO2)* generated by the framework is represented in Figure 3 which illustrates the framework's capability to parse conversational constraints into precise database filters and return a schema-validated result. The execution trace of the experiment is also available at the LangSmith Trace Repository \[18\].
-
-![image31](images/image31.png)  
-**Figure 3\.** Research Output of the Natural Language Property Discovery Framework and the Agentic Execution Trace from LangSmith 
-
-  Figure 3 illustrates the agent’s reasoning and tool invocation sequence. It takes a normal sentence from a buyer, uses a custom tool to search a database of properties from NoBroker and 99acres, and provides a verified list of apartments. This proves the system can accurately turn a messy search into a clear, helpful answer.
-
-*C. District-wise Risk Scoring Framework*  
-  The purpose of the District-wise Risk Scoring Framework is to provide location intelligence through the regulatory compliance data and project risk profile.  
-  Figure 4 displays three phases performed during implementation of the framework including Data Acquisition & Pre-processing, Risk Modelling Agent, Research Output & Evaluation which are as follows:
-
-  1\) Data Acquisition and Preprocessing: The input layer utilizes five heterogeneous datasets crawled from the MahaRERA regulatory portal \[8\] using Crawl4AI and converted to JSON: (i) registered projects, (ii) lapse of completion dates, (iii) non-compliance with Quarterly Progress Reports (QPR), (iv) shared bank account signals, and (v) legal authority orders.  
-  A schema standardization script was developed to perform certificate-based linking. Since project names often vary across datasets, the CertificateNo served as the primary key to link delays, financial irregularities, legal orders to a specific project and its respective district.
-
-  2\) Risk Modeling Engine: To calculate the risk scores the engine used the following statistical methods:
-
-* Bayesian Smoothing: To prevent bias in districts with a very low project count, Bayesian smoothing (𝛼 \= 1, 𝛽 \= 5\) was used. This was to ensure that the risk scores are dampened in areas with low data to provide a more equal comparison.  
-* Multi-Dimensional Risk Computation: The final score is a weighted aggregation of four critical risk dimensions: 
-
-Score \= (0.35  D) \+ (0.25  C) \+ (0.25  F) \+ (0.15  L) \+ S		(1)
-
-In Equation (1), D is Delay Risk, C is Compliance Risk, F is Financial Risk, L is Legal Risk, and S represents Cross-Signal Amplification. The weights here were empirically chosen based on domain relevance.
-
-* Cross-Signal Amplification: The engine identifies "high-risk" projects where multiple flags (e.g., both a delay and a financial lapse) overlap which then applies a multiplier to amplify these signals in the district’s overall score.
-
-![image32](images/image32.png)  
-**Figure 4\.** Framework for District-wise Risk Scoring Framework
-
-  3\) Research Output & Evaluation: The output provides a normalized Risk Score (0-1) and a Confidence Score for each district in Maharashtra. This framework shows  how it can enable buyers or investors to evaluate not just a single building but the regulatory health of an entire locality. The output was as follows:
-
-**Table 2\.** Output of the District-wise Risk Scoring Framework
-
-| District | Delay Risk | Compliance Risk | Financial Risk | Legal Risk | Risk Score | Confidence |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Pune | 197 | 63.5 | 11.333 | 0.167 | 1 | 1628 |
-| Nagpur | 36 | 29.833 | 3.167 | 0.167 | 0.238 | 411 |
-| Nashik | 37.667 | 27.5 | 1.167 | 0.167 | 0.232 | 395 |
-| ⋮ | ⋮ | ⋮ | ⋮ | ⋮ | ⋮ | ⋮ |
-
-  The output generated by the framework is presented in Table 2. The framework demonstrates how it utilizes MahaRERA records to compute a risk score, which can be used by investors to identify suitable zones or districts for investment.
-
-4. CONCLUSION AND FUTURE SCOPE
-
-  The proposed frameworks demonstrate the effectiveness of integrating regulatory data, market listings and intelligent AI-driven systems to address the limitations in the real estate ecosystem. Through three distinct experiments, this study examines the feasibility of transforming unstructured data into structured and interpretable decision support. Despite these contributions, certain limitations exist, including the dependency on the static datasets and limited depth in complex legal reasoning.   
-  Future work on this may focus on creating a system with the incorporation of real-time data pipelines, improvement of reasoning capabilities using advanced LLMs, and integration of socio-economic and infrastructure indicators to enable more robust predictive analytics. Such a system can be further adopted and extended across multiple regions in India, thereby improving its practical impact.
-
-ACKNOWLEDGEMENT  
-  The authors would like to express their sincere gratitude to our mentor Dr. Gresha Bhatia for her guidance and support throughout the course of this academic research. Additionally, we acknowledge the use of the data from MahaRERA and the tools and frameworks that supported the development and evaluation of these frameworks.
-
-DISCLOSURE STATEMENT  
-  The authors declare no conflicts of interest.
-
-DATA AVAILABILITY STATEMENT  
-  The data that support the findings of this study are openly available in the project’s GitHub repository at \[10\]. These data were derived from the following resources available in the public domain: MahaRERA \[11\] and Public Property Portals: 99acres \[14\], MagicBricks \[15\] and NoBroker \[16\].
-
-ORCID  
-Gresha Bhatia [https://orcid.org/0000-0003-0558-2575](https://orcid.org/0000-0003-0558-2575)  
-Neelkanth Khithani [https://orcid.org/0009-0008-2728-1611](https://orcid.org/0009-0008-2728-1611)  
-Kushl Alve [https://orcid.org/0009-0002-7761-1435](https://orcid.org/0009-0002-7761-1435)  
-Vedang Gambhire [https://orcid.org/0009-0006-4527-3864](https://orcid.org/0009-0006-4527-3864)  
-Jatin Navani [https://orcid.org/0009-0001-9268-0458](https://orcid.org/0009-0001-9268-0458)
-
-REFERENCES
-
-1. Government of India, “Viksit India,” 2023\. \[Online\]. Available: [https://viksitindia.com/](https://viksitindia.com/)  
-2. NITI Aayog, “India’s Data Imperative: The Pivot Towards Quality,” Government of India, Jun. 2025\. \[Online\]. Available: [https://niti.gov.in/sites/default/files/2025-09/india-data-imperative-the-pivot-towards-quality.pdf](https://niti.gov.in/sites/default/files/2025-09/india-data-imperative-the-pivot-towards-quality.pdf)  
-3. Ministry of Housing and Urban Affairs, “Real Estate Regulatory Authority (RERA),” Government of India. \[Online\]. Available: [https://rera.mohua.gov.in/](https://rera.mohua.gov.in/)  
-4. Knight Frank India and NAREDCO, “RERA’s Reign: Charting Real Estate Growth Post-2016,” Aug. 2025\. \[Online\]. Available: [https://naredco.in/convention/wp-content/uploads/2025/09/RERAs-Reign-August-2025.pdf](https://naredco.in/convention/wp-content/uploads/2025/09/RERAs-Reign-August-2025.pdf)  
-5. Boston Consulting Group (BCG), “Five Years On: An Assessment of RERA,” Jul. 2021\. \[Online\]. Available: [https://www.bcg.com/five-years-on-assessment-of-rera/](https://www.bcg.com/five-years-on-assessment-of-rera/)  
-6. H. Mohd Amin, M. F. Nasrudin, S. S. Abdullah, and S. Singh, “Clustering analysis for classifying fake real estate listings,” *PeerJ Computer Science*, vol. 10, p. e2019, Jun. 2024\. \[Online\]. Available: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11232574/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11232574/)  
-7. C. S. Veluru, “Revolutionizing real estate: AI-driven insights from historical data for smart property decisions,” *Journal of Artificial Intelligence & Cloud Computing*, vol. 2, no. 1, pp. 1–11, Jan. 2023\. \[Online\]. Available: [https://srcpublishers.com/ai-cloud-computing/article/view/2233](https://srcpublishers.com/ai-cloud-computing/article/view/2233)  
-8. S. M. W. Rahman, S. Kim, H. Choi, D. S. Bhatti, and H.-N. Lee, “Legal Query RAG: A recursive feedback mechanism for high-precision legal assistance,” *IEEE Access*, vol. 13, pp. 36978–36994, 2025\. \[Online\]. Available: [https://ieeexplore.ieee.org/document/10887211](https://ieeexplore.ieee.org/document/10887211)  
-9. S. Yao *et al.*, “ReAct: Synergizing reasoning and acting in language models,” in *Proc. 11th Int. Conf. Learning Representations (ICLR)*, Kigali, Rwanda, 2023\. \[Online\]. Available: [https://doi.org/10.48550/arXiv.2210.03629](https://doi.org/10.48550/arXiv.2210.03629)  
-10. N. Khithani, “Intelligent frameworks for structured decision support in real estate,” GitHub, 2026\. \[Online\]. Available: [https://github.com/Neelkanth-khithani/Intelligent-Frameworks-for-Structured-Decision-Support-in-Real-Estate](https://github.com/Neelkanth-khithani/Intelligent-Frameworks-for-Structured-Decision-Support-in-Real-Estate)  
-11. Government of India, “MahaRERA,” 2017\. \[Online\]. Available: [https://maharera.maharashtra.gov.in/](https://maharera.maharashtra.gov.in/)  
-12. Ollama, “Ollama,” 2023\. \[Online\]. Available: [https://ollama.com/](https://ollama.com/)  
-13. Crawl4AI, “Crawl4AI documentation,” 2024\. \[Online\]. Available: [https://docs.crawl4ai.com/](https://docs.crawl4ai.com/)  
-14. 99acres, “Real estate in India,” 2005\. \[Online\]. Available: [https://www.99acres.com/](https://www.99acres.com/)  
-15. MagicBricks, “Property in India: Buy/sell/rent properties,” 2006\. \[Online\]. Available: [https://www.magicbricks.com/](https://www.magicbricks.com/)  
-16. NoBroker, “Zero brokerage property search portal,” 2014\. \[Online\]. Available: [https://www.nobroker.in/](https://www.nobroker.in/)  
-17. Meta AI, “Llama 3.2,” 2024\. \[Online\]. Available: [https://www.llama.com/](https://www.llama.com/)  
-18. N. Khithani, “Execution trace of agentic property discovery,” LangSmith Trace Repository, 2026\. \[Online\]. Available: [https://smith.langchain.com/public/36c10d5f-651f-4288-abf6-07c0e2016a90/r/](https://smith.langchain.com/public/36c10d5f-651f-4288-abf6-07c0e2016a90/r/)
-
-## **II. Plagiarism Report** {#ii.-plagiarism-report}
-
-![image33](images/image33.png)  
-![image34](images/image34.png)
-
-## 
-
-## **III. Review Sheets** {#iii.-review-sheets}
-
-![image35](images/image35.png)  
-![image36](images/image36.png)
